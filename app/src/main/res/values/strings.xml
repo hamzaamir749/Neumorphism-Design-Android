@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Neumorphism</string>
+    <string name="luna">LUNA</string>
+    <string name="welcome">Welcome</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="fullName">Full Name</string>
+    <string name="individual">Individual</string>
+    <string name="company">Company</string>
+    <string name="already_have_an_account">Already Have an Account ? </string>
+    <string name="sign_in"> SIGN IN</string>
+    <string name="transcribeIt">TranscribeIt</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account ? </string>
+    <string name="change_passowrd">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="forgot_password_Activity">Forgot Password</string>
+    <string name="set_password">Set Password</string>
+    <string name="confirmation_code">Confirmation Code</string>
+    <string name="confirm_account">Confirm Account</string>
+    <string name="a_confirmation_code_was_sent">A confirmation code was sent.</string>
+    <string name="please_enter_the_code_below_to_confirm_your_account">Please enter the code below to confirm your account.</string>
+
+    <string name="confirm">Confirm</string>
+
+    <string name="_00_00">00:00</string>
+    <string name="resend_code">Resend Code?</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="my_files">My Files</string>
+    <string name="transcriptions">Transcriptions</string>
+    <string name="upload">Upload</string>
+    <string name="my_accounts">My Accounts</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+</resources>
